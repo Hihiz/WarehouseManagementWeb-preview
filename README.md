@@ -11,6 +11,6 @@
 ## 🏗️ Архитектура
 ```mermaid
 flowchart LR
-    A[Angular Frontend] -->|HTTP| B[ASP.NET Core Backend]
-    B -->|Dapper| C[(PostgreSQL Database)]
+    A[Angular] -->|HTTP| B[ASP.NET Core]
+    B -->|Dapper| C[(Database)]
 ```
