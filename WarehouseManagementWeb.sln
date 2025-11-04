@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0
+VisualStudioVersion = 17.14.36603.0 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseManagementWeb.Domain", "WarehouseManagementWeb.Domain\WarehouseManagementWeb.Domain.csproj", "{7DF36FC3-9B6E-40F1-9B20-60BF676CDC2A}"
 EndProject
