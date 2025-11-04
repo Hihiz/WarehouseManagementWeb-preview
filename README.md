@@ -12,5 +12,5 @@
 ```mermaid
 flowchart LR
     A[Angular] -->|HTTP| B[ASP.NET Core]
-    B -->|Dapper| C[(Database)]
+    B -->| | C[(Database)]
 ```
