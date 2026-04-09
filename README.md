@@ -2,7 +2,7 @@
 
 **WarehouseManagementWeb** - веб-приложение для управления складом.
 
-**Демо:** [https://devproduct.ru](https://devproduct.ru)
+**Демо:** 
 
 ## Стек
 - **Backend:** ASP.NET Core 9.0
